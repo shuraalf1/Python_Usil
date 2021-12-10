@@ -1,0 +1,16 @@
+1. Crear un env virtual
+
+```
+py -m venv env
+```
+
+
+2. activar env virtual
+
+```
+.\env\Scripts\activate
+```
+
+3. Instalacion de plugins 
+
+pip install -r requirements.txt
